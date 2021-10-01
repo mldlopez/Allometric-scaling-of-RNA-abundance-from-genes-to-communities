@@ -21,6 +21,5 @@ The metabolic theory of ecology (MTE) and growth rate hypothesis (GRH) help expl
 ## General workflow of the current study
 
 <p align="center">
- 
-<img src="https://github.com/mldlopez/Allometric-scaling-of-RNA-abundance-from-genes-to-communities/edit/master/workflow.png" width="800" title="hover text">
+<img src="https://github.com/mldlopez/Allometric-scaling-of-RNA-abundance-from-genes-to-communities/blob/master/workflow.png" width="800">
 </p>
